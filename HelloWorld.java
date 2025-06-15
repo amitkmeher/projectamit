@@ -1,5 +1,5 @@
 // Simple Java Hello World Program
-class HelloWorld
+class Simple
 {
     public static void main(String[] args)
     {
